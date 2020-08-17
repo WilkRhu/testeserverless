@@ -1,0 +1,21 @@
+#cabecalho{
+    height: 35vh;
+    background-image: url("../../assets/img/efeito02.png");
+    background-position: bottom center;
+    background-size: cover;
+}
+
+#container-logo{
+    height: 100%;
+}
+
+#logomarca{
+    height: 30vh;
+    margin: 0 auto;
+    padding-top: 0.5rem;
+    background:url("../../assets/img/01.png")no-repeat;
+    background-size: 15rem;
+    background-position: center center;
+}
+
+
